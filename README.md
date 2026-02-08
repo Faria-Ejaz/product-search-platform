@@ -2,6 +2,8 @@
 
 A high-performance, production-ready product search platform optimized for handling large datasets (5k+ products) entirely on the client-side. This platform features a modern e-commerce interface with sliding sidebar filters, real-time search, and a comprehensive cart system.
 
+![Product Search Platform Demo](public/demo/product-search-demo.gif)
+
 ## 🚀 Setup and Installation
 
 ### Prerequisites
