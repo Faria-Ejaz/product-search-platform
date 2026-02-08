@@ -23,21 +23,12 @@ A high-performance, production-ready product search platform optimized for handl
    - UI/E2E tests: `npm run test:e2e`
 5. **Access the application**:
    Open [http://localhost:3000](http://localhost:3000) in your browser.
-## ☁️ Deployment
 
-### Deploy to Vercel (Recommended)
-You can deploy this project for **free** on the [Vercel Hobby Tier](https://vercel.com/hobby).
+## 🔗 Live Demo
 
-1. Push your code to a GitHub, GitLab, or Bitbucket repository.
-2. Link the repository to your Vercel account.
-3. Vercel will automatically detect the **Next.js** configuration and provide a preview URL for每一 commit.
+The application is deployed and available at:
+**[https://product-search-platform-zeta.vercel.app/](https://product-search-platform-zeta.vercel.app/)**
 
-### Manual Build
-To create a production-ready build locally:
-```bash
-npm run build
-npm run start
-```
 ## �� Search Implementation
 
 The search engine is optimized for speed and relevance, implemented entirely in TypeScript without external search dependencies (like Algolia or Elasticsearch).
